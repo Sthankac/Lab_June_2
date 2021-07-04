@@ -1,1 +1,1 @@
-# Lab_June_2
+# june-2-lab
